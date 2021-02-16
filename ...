@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="Joshua Crossen">
         <title>CE Truffaut | Web Developer</title>
-        <link href="ottemanc.github.io/style.css" rel="stylesheet" type="text/css">
+        <link href="thecrossen2.io/style.css" rel="stylesheet" type="text/css">
     </head>
 /* || General Setup */
 
@@ -67,7 +67,7 @@ h2 {
 
         <!-- Add the image "patricia-frost-125-edited-medium.jpg" right before the opening <ul> tag of the nav. Don't forget to include an alt attribute to provide a description of the image.-->
         <nav>
-                <img src="ottemanc.github.io/patricia-frost-125-edited-medium.jpg" alt="Patricia Frost">
+                <img src="thecrossen2.github.io/patricia-frost-125-edited-medium.jpg" alt="Patricia Frost">
                 <ul>
                     <li><a href="letter-markup">Letter Markup</a></li>
                     <li><a href="planets-table">Planets Table</a></li>
@@ -150,7 +150,7 @@ h2 {
 
                 <!-- FIGURE 2 -->
                         <figure class="fig-2">
-                            <img src="ottemanc.github.io/puddle-2-medium.jpg" alt="another puddle">
+                            <img src="thecrossen2.github.io/puddle-2-medium.jpg" alt="another puddle">
                             <figcaption>
                              <a href="https://www.flickr.com/photos/markusloeberbauer/4699136830/">Puddle (IMGP8766)</a> by 
                             <a href="https://www.flickr.com/photos/markusloeberbauer/">Maarkus Loeberbauer</a> licensed under 
